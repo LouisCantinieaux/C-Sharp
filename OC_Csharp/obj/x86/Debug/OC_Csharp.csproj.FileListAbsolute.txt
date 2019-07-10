@@ -1,0 +1,5 @@
+/home/cantini/Documents/Csharp/OC_Csharp/bin/Debug/OC_Csharp.exe
+/home/cantini/Documents/Csharp/OC_Csharp/bin/Debug/OC_Csharp.pdb
+/home/cantini/Documents/Csharp/OC_Csharp/obj/x86/Debug/OC_Csharp.csproj.CoreCompileInputs.cache
+/home/cantini/Documents/Csharp/OC_Csharp/obj/x86/Debug/OC_Csharp.exe
+/home/cantini/Documents/Csharp/OC_Csharp/obj/x86/Debug/OC_Csharp.pdb
